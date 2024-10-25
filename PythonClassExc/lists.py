@@ -1,5 +1,5 @@
 import random
-
+# using random in this demo
 a="aaa"
 ls=["a", "b", "c"]
 lista = [1, 5, 6, ls, 7, 8, a]
