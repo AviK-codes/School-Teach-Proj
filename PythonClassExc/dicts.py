@@ -1,3 +1,4 @@
+# demo for dictonary use
 dicta = {"yoav": "football", "yosi": "basketball", "haim": "swimming"}
 print(dicta["yosi"])
 
